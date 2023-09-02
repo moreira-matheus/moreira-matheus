@@ -9,9 +9,8 @@
 **Personal info**:
 
 - 😄 Pronouns: He/His (Ele/Dele).
-- 🌱 I’m currently learning [Social Network Analysis](https://www.insna.org/).
+- 🌱 I’m currently learning [Digital Colonialism](https://longreads.tni.org/digital-colonialism-the-evolution-of-us-empire).
 - 📫 How to reach me: moreira.matheus3692@gmail.com or through [LinkedIn](https://www.linkedin.com/in/moreira-matheus/).
-- ⚡ Fun fact: I'm always (and I mean *almost* literally) listening to music 🎧🎵🎸.
 
 <!--
 **moreira-matheus/moreira-matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
