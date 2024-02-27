@@ -9,7 +9,7 @@
 **Personal info**:
 
 - 😄 Pronouns: He/His (Ele/Dele).
-- 🌱 I’m currently learning [Digital Colonialism](https://longreads.tni.org/digital-colonialism-the-evolution-of-us-empire).
+- 🌱 I’m currently learning [Digital Colonialism](https://longreads.tni.org/digital-colonialism-the-evolution-of-us-empire) and [Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html).
 - 📫 How to reach me: moreira.matheus3692@gmail.com or through [LinkedIn](https://www.linkedin.com/in/moreira-matheus/).
 
 <!--
